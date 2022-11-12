@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @samarpansarkar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...java
+- 👋 Hi, I’m @samarpan sarkar
+- 👀 I’m interested in ...gtaV mlo
+- 🌱 I’m currently learning ...java,C,C#,lua,
 - 📫 How to reach me ...
 
 <!---

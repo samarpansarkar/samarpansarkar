@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samarpan sarkar
-- 👀 I’m interested in ...gtaV mlo
-- 🌱 I’m currently learning ...java,C,C#,lua,
+- 👀 currently, I am interested in android app development.
+- 🌱 I’m currently learning ...java,xml.
 - 📫 How to reach me ...
 
 <!---

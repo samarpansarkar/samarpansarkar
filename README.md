@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samarpan sarkar
 - 👀 currently, I am interested in android app development.
-- 🌱 I’m currently learning ...java,xml.
+- 🌱 I’m currently learning ...
 - 📫 How to reach me ...
 
 <!---

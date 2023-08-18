@@ -34,6 +34,9 @@
 - 📫 Feel free to reach me out **samarpansarkar209@gmail.com**
 
 <!--Intro end-->
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>

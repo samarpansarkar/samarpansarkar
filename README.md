@@ -66,8 +66,6 @@
 </div>
 
 <!--horizontal divider(gradiant)-->
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=samarpansarkar&label=Profile%20Views&pretty=false" />
-</a>
+
 
 ----------------------------------------------------------------------

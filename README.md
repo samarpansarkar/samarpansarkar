@@ -89,10 +89,13 @@
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=samarpansarkar&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
   
 </div>
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=samarpansarkar&label=Profile%20Views&pretty=false" />
+</a>
 
 ----------------------------------------------------------------------

@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **react, react-native, nodejs, mongoDB**
 
-- - 🤝 I’m available for freelancing.
+- 🤝 I’m available for freelancing.
 
 - 📫 Feel free to reach me out **samarpansarkar209@gmail.com**
 
@@ -46,7 +46,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 

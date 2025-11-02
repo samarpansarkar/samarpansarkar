@@ -1,43 +1,50 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gradient Divider">
 
-# Hi 👋, I'm Samarpan
+# 👋 Samarpan Sarkar: Full-Stack Developer 🚀
 
-A Full-Stack Developer focused on building robust and scalable applications using the **MERN** stack.
-
----
-
-## 💻 About Me
-
-- 🔭 I’m currently building projects with **React, React Native, Node.js, and MongoDB**.
-- 💬 **Ask me about** modern JavaScript, state management (Redux/Context), and API development.
-- 🤝 I’m actively **available for freelancing opportunities**.
-- 📫 **Reach me at** [samarpansarkar209@gmail.com](mailto:samarpansarkar209@gmail.com)
+**Building seamless, data-driven applications with the MERN stack.**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 👨‍💻 Decoding My Dev Stack
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px alt="Right side GIF"></picture>
+
+- 🔭 **Currently Focusing On:** Scaling applications with **React**, **React Native**, and optimizing backend services using **Node.js** and **MongoDB**.
+- 💡 **My Superpower:** Taking complex problems and translating them into clean, high-performance code.
+- 🤝 **Freelance Status:** Available and ready to collaborate on exciting new projects!
+- 💬 **Need Help? Ask me about:** React state management, Express API design, or modern UI/UX principles.
+- 📫 **Let's Connect:** [samarpansarkar209@gmail.com](mailto:samarpansarkar209@gmail.com)
+
+<br>
+
+---
+
+## ⚙️ Core Technologies I Rock
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,mongodb,js,html,css,tailwind,bootstrap,git,github,vscode,postman,firebase,c,discord&perline=14" alt="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,mongodb,js,html,css,tailwind,bootstrap,git,github,vscode,postman,firebase,c,discord&perline=14" alt="Skill Icons - React, Node, MongoDB, Tailwind, etc.">
   </a>
 </p>
 
 ---
 
-## 🚀 My Latest Work
+## 🌐 Showcase: Portfolio & Featured Projects
 
-| Project Name | Technology Focus | Link |
-| :--- | :--- | :--- |
-| **SpaNFood** | MERN Stack, Food Delivery | [View Live](https://mern-food-app-one.vercel.app) |
-| **My Portfolio** | Personal Showcase | [View Live](https://portfolio-samarpan.vercel.app) |
-| **Investment Calculator** | React State Management | [View Live](https://investment-calculator-react-js-phi.vercel.app) |
-| **QuizApp** | React Fundamentals | [View Live](https://quiz-app-tawny-pi.vercel.app) |
-| **JWT Token Generator** | API Tools, Security | [View Live](https://jwt-token-generator-eta.vercel.app) |
+These are some of the projects I've built to demonstrate my full-stack capabilities:
+
+- **SpaNFood (MERN):** Full-stack food delivery application. [View Live](https://mern-food-app-one.vercel.app)
+- **My Portfolio:** A personalized look at my skills and journey. [View Live](https://portfolio-samarpan.vercel.app)
+- **Investment Calculator:** Demonstrating strong React state logic. [View Live](https://investment-calculator-react-js-phi.vercel.app)
+- **QuizApp:** A clean, engaging user quiz interface. [View Live](https://quiz-app-tawny-pi.vercel.app)
+- **JWT Token Generator:** A utility tool for modern authentication. [View Live](https://jwt-token-generator-eta.vercel.app)
 
 ---
 
-## 🔗 Connect with Me
+## 🤝 Connect & Collaborate
+
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;" alt="Handshake GIF">Find Me Across the Web </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samarpan-sarkar-359678248/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" style="margin-right: 15px;"></a>

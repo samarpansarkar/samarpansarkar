@@ -6,6 +6,21 @@
 
 ---
 
+## 🏅 Profile Status & Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Freelance%20-Available-success?style=for-the-badge&logo=codecademy&logoColor=white&color=00B894" alt="Freelance Status">
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration Status">
+  <img src="https://img.shields.io/badge/Contact-samarpansarkar209-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Email">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samarpansarkar&show_icons=true&theme=dark&rank_icon=github" alt="Samarpan's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarpansarkar&layout=compact&theme=dark&langs_count=6" alt="Top Languages">
+</p>
+
+---
+
 ## 👨‍💻 Decoding My Dev Stack
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px alt="Right side GIF"></picture>
@@ -20,7 +35,7 @@
 
 ---
 
-## ⚙️ Core Technologies I Rock
+## 🛠️ Core Technologies I Rock
 
 <p align="center">
   <a href="https://skillicons.dev">

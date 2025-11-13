@@ -67,8 +67,4 @@ These are some of the projects I've built to demonstrate my full-stack capabilit
   <a href="https://discord.gg/xgq9aq8PUA" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50"></a>
 </p>
 
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=samarpansarkar&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gradient Divider">
